@@ -112,7 +112,7 @@ Contributing
 3. Commit your changes (`git commit -am "Added Snarkdown"`)
 4. Push to the branch (`git push origin my_markup`)
 5. Create an [Issue][1] with a link to your branch
-6. Enjoy a refreshing Diet Coke and wait
+6. Enjoy a refreshing apple juice and wait
 
 
 [r2h]: http://github.com/github/markup/tree/master/lib/github/commands/rest2html
